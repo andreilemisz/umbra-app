@@ -12,3 +12,7 @@ __pycache__/
 Thumbs.db
 
 # Ignore IDE/editor configs
+
+# Ignore executable builds
+build/
+umbra-app.spec
