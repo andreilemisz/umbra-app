@@ -12,3 +12,6 @@ pyinstaller --onefile --windowed --icon=design\personagem_ico.ico --add-data "de
 
 ## milestone 2
 a desenvolver próximos passos
+
+!! > atualizar o requirements.txt com novas bibliotecas
+!! > chave da api está em documento separado, lembrar disso ao criar executável

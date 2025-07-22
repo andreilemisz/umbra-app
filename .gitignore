@@ -12,7 +12,15 @@ __pycache__/
 Thumbs.db
 
 # Ignore IDE/editor configs
+.vscode/
 
 # Ignore executable builds
 build/
 umbra-app.spec
+
+# Ignore API Keys
+api_key.txt
+api_info.txt
+
+# Ignore workshop files
+workshop/
